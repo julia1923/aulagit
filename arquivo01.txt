@@ -1,4 +1,4 @@
 init - inicializa um repositório 
 status - exibir status de working e stage
 log - exibe os commits realizados
-sdjgsujhg
+commit - "fotografa" os arquivos para o históricos
